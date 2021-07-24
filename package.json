@@ -2,5 +2,8 @@
   "dependencies": {
     "spago": "^0.20.3",
     "xhr2": "^0.2.1"
+  },
+  "scripts": {
+    "spago": "spago"
   }
 }
